@@ -87,17 +87,17 @@ A sleek, responsive React web application that streamlines meeting room reservat
 
 1. **Build for Production**
    ```bash
-   npm run build
+   node zip.js
    ```
-   This creates an optimized build in the `/dist` folder
+   This creates an optimized build in the parent directory
 
-   *[Screenshot placeholder: Build process completion]*
+
 
 2. **Create Deployment Package**
    - A `.zip` file will be generated automatically
    - Contains all necessary files for Kissflow deployment
 
-   *[Screenshot placeholder: Generated zip file]*
+   
 
 3. **Upload to Kissflow**
    - Navigate to your Kissflow workspace
@@ -106,13 +106,9 @@ A sleek, responsive React web application that streamlines meeting room reservat
    - Click **Preview** to test functionality
    - **Save** to deploy to production
 
-   *[Screenshot placeholder: Kissflow upload interface]*
-   *[Screenshot placeholder: Preview mode in Kissflow]*
-   *[Screenshot placeholder: Successful deployment confirmation]*
-
 ---
 
-## Screenshots  s
+## Screenshots  
 
 ### Main Interface
 ![Main Interface](https://i.postimg.cc/J4ZZYH4N/Screenshot-2025-06-20-at-12-32-18-PM.png)
@@ -121,4 +117,4 @@ A sleek, responsive React web application that streamlines meeting room reservat
 ![Main Interface](https://i.postimg.cc/yx9gG2B1/Screenshot-2025-06-20-at-12-33-27-PM.png)
 
 ### Email Confirmation
-[Main Interface](https://i.postimg.cc/JnHGySsN/Screenshot-2025-06-20-at-4-19-20-PM.png)
+![Main Interface](https://i.postimg.cc/JnHGySsN/Screenshot-2025-06-20-at-4-19-20-PM.png)
