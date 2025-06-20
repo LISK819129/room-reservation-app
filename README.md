@@ -112,7 +112,7 @@ A sleek, responsive React web application that streamlines meeting room reservat
 
 ---
 
-## Screenshots
+## Screenshots  s
 
 ### Main Interface
 ![Main Interface](https://i.postimg.cc/J4ZZYH4N/Screenshot-2025-06-20-at-12-32-18-PM.png)
